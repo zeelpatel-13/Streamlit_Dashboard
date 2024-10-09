@@ -1,0 +1,11 @@
+project_directory/
+│
+├── app.py                      # Main Streamlit application file
+│
+├── directory.txt            # Python dependencies for your project
+├── requirements.txt            # Python dependencies for your project
+│
+├── images/                     # Directory for images
+│   ├── nap_york.png            # Your company logo image
+│
+└── README.md                   # Project documentation (optional)
